@@ -1,6 +1,5 @@
 package com.cn.sendemail.utils;
 
-import org.springframework.core.io.FileSystemResource;
 import org.springframework.mail.javamail.MimeMessageHelper;
 
 import javax.mail.*;
